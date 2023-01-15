@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "hwllo fuch tu",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "talha",
+  "license": "ISC",
+  "dependencies": {
+    "supervillains": "^3.1.0"
+  }
+}
